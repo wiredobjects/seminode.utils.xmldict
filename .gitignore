@@ -1,0 +1,26 @@
+### https://github.com/github/gitignore
+
+# Python Patterns
+*.pyc
+*.pyo
+*.egg
+*.egg-info
+.installed.cfg
+/bin
+/build
+/develop-eggs
+/dist
+/eggs
+/parts
+/docs/Makefile
+/docs/doctrees/
+/docs/html/
+/docs/make.bat
+
+### Eclipse Patterns
+.project
+.pydevproject
+.settings
+
+### Common Patterns
+*.bak
